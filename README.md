@@ -3,7 +3,7 @@
 # My Process
 ### Built With
 
-- React
+- React with VIte
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Flex Layout
