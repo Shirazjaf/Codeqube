@@ -1,5 +1,8 @@
 # Codeqube - Services Based Website
 
+> **This is sample for the clients to get an idea about the remaining project will be..there are pages yet to be added after approval**
+> `Desktop Version Only`
+
 # My Process
 ### Built With
 
